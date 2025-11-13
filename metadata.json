@@ -1,0 +1,5 @@
+{
+  "name": "Photo Animator AI",
+  "description": "An application that transforms user-uploaded photos into animated-style images using the Gemini API.",
+  "requestFramePermissions": []
+}
